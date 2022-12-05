@@ -1,4 +1,3 @@
-from functools import cache
 from random import randint
 from time import perf_counter
 
